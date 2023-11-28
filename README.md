@@ -1,1 +1,1 @@
-# Immages Segmentation and Medical image segmentation
+# Images Segmentation and Medical image segmentation
